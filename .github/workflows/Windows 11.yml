@@ -1,4 +1,4 @@
-name: RDP
+name: RDP-w11
 
 on:
   workflow_dispatch:
